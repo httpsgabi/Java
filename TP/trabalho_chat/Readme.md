@@ -11,6 +11,6 @@
 
 <p>Então procuramos e estudamos formas de resolvermos esses problemas, encontramos um código pronto disponível na prataforma Alura, que faz a conexão multichat</p>
 
-<h4>Link do código disponível em: https://cursos.alura.com.br/forum/topico-chat-socket-multithread-36817</h4>,
+<h4>Link do código disponível em: https://cursos.alura.com.br/forum/topico-chat-socket-multithread-36817</h4>
 
 <h4 align="center">COLTEC - Colégio Técnico da UFMG</h4>
