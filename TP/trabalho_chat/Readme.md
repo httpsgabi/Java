@@ -11,7 +11,7 @@
 
 <p>Então procuramos e estudamos formas de resolvermos esses problemas, encontramos um código pronto disponível na prataforma Alura, que faz a conexão multichat e então procuramos entendê-lo</p>
 
-<h4>Explicação do código</h4>
+<h3>Explicação do código</h3>
 
 <p></p>
 
