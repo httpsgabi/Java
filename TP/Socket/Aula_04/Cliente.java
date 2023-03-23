@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class Cliente {
     public static void main(String[] args) throws UnknownHostException, IOException {
-        Socket cliente = new Socket("127.0.0.1", 12345);
+        Socket cliente = new Socket("10.0.0.53", 12345);
         System.out.println("O Cliente se conectou ao servidor!");
 
         Scanner teclado = new Scanner(System.in);
